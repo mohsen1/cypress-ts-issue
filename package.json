@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {"test": "tsc"},
   "dependencies": {
-    "@types/chai": "^4.1.7",
+    "@types/chai": "^4.3.20",
     "@types/mocha": "^5.2.7",
     "cypress": "^3.3.1",
     "typescript": "^3.5.2"
